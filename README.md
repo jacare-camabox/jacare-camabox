@@ -1,6 +1,6 @@
-### Olá! Me chamo Mauricio Lopes Santana Junior
+### Olá! Me chamo ramon Lopes Santana 
 - 🌱 Atualmente cursando Full-Stack pela BluEdTech
-- 👯 Contate-me no email: mauriciolpzjunior@gmail.com
+
 
 <div align="center">
   <a href="https://github.com/jacare-camabox">
