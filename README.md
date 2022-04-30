@@ -1,6 +1,6 @@
 ### Olá! Me chamo Ramon Lopes Santana 
 - 🌱 Atualmente cursando Full-Stack pela BluEdTech
-
+- ✉  ramonlopesdev@gmail.com
 
 <div align="center">
   <a href="https://github.com/jacare-camabox">
