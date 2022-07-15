@@ -2,6 +2,7 @@
 - 🌱 Atualmente cursando Full-Stack pela BluEdTech
 - ✉  ramonlopesdev@gmail.com
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramonmarcellopes&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="ramonmarcellopes" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramonmarcellopes&show_icons=true&theme=tokyonight&locale=en" alt="ramonmarcellopes" /></p>
 
