@@ -3,7 +3,7 @@
 - ✉  ramonlopesdev@gmail.com
 
 <span>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramonmarcellopes&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="ramonmarcellopes" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramonmarcellopes&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="ramonmarcellopes" /></p>
 </span>
 <span>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ramonmarcellopes&show_icons=true&theme=tokyonight&locale=en" alt="ramonmarcellopes" /></p>
