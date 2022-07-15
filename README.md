@@ -2,10 +2,6 @@
 - 🌱 Atualmente cursando Full-Stack pela BluEdTech
 - ✉  ramonlopesdev@gmail.com
 
-<p align="left">
-<a href="https://twitter.com/jacarezinxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jacarezinxd" height="30" width="40" /></a>
-</p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramonmarcellopes&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="ramonmarcellopes" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramonmarcellopes&show_icons=true&theme=tokyonight&locale=en" alt="ramonmarcellopes" /></p>
