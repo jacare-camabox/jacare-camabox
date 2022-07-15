@@ -3,10 +3,10 @@
 - ✉  ramonlopesdev@gmail.com
 
 <span>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramonmarcellopes&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="ramonmarcellopes" /></p>
+<p><img align="left" widht="400em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramonmarcellopes&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="ramonmarcellopes" /></p>
 </span>
 <span>
-<p>&nbsp;<img align="center" whight="200em" src="https://github-readme-stats.vercel.app/api?username=ramonmarcellopes&show_icons=true&theme=tokyonight&locale=en" alt="ramonmarcellopes" /></p>
+<p>&nbsp;<img align="center" widht="400em" src="https://github-readme-stats.vercel.app/api?username=ramonmarcellopes&show_icons=true&theme=tokyonight&locale=en" alt="ramonmarcellopes" /></p>
 </span>
 
 <h3 align="left">Languages and Tools:</h3>
