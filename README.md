@@ -3,7 +3,9 @@
 - ✉  ramonlopesdev@gmail.com
 
 <span>
-<p></p>
+<p>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RamonMarcelLopes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+ </p>
 </span>
 <span>
 <p></p>
