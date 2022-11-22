@@ -4,12 +4,14 @@
 
 <span>
 <p>
- <img height="180em" width="100px" src="https://github-readme-stats.vercel.app/api?username=RamonMarcelLopes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+ <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=RamonMarcelLopes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+ 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonMarcelLopes&layout=compact&langs_count=7&theme=dracula"/> 
  </p>
 </span>
 <span>
 <p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonMarcelLopes&layout=compact&langs_count=7&theme=dracula"/> 
+
 </p>
 </span>
 </br>
