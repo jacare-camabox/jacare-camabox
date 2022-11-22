@@ -8,7 +8,9 @@
  </p>
 </span>
 <span>
-<p></p>
+<p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonMarcelLopes&layout=compact&langs_count=7&theme=dracula"/> 
+</p>
 </span>
 </br>
 <h3 align="left">Languages and Tools:</h3>
