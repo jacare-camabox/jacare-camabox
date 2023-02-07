@@ -1,5 +1,5 @@
 ### Olá! Me chamo Ramon Lopes Santana 
-- 🌱 Atualmente cursando Full-Stack pela BluEdTech
+- 🎓 Graduated in full stack web development by BlueEdTech
 - ✉  ramonlopesdev@gmail.com
 
 <span>
