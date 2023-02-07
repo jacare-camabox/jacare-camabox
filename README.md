@@ -1,4 +1,4 @@
-### Olá! Me chamo Ramon Lopes Santana 
+### Hello! My name is Ramon Lopes Santana 
 - 🎓 Graduated in full stack web development by BlueEdTech
 - ✉  ramonlopesdev@gmail.com
 
